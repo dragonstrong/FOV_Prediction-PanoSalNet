@@ -27,5 +27,6 @@ run lstm.py to predict the FOV (**output is a probability  matrix of each tile**
 
 ![image](https://user-images.githubusercontent.com/32926995/130085826-6550dd4f-3948-4edf-8dfa-6b5e65252469.png)
 
-![8e0bd347cd868c58c137ed3a51ecb61](https://user-images.githubusercontent.com/32926995/130091168-5585f203-ba92-45ac-ba62-c0d4d0641bb1.jpg)
+![8e0bd347cd868c58c137ed3a51ecb61](https://user-images.githubusercontent.com/32926995/130091278-8135b221-aa07-431d-b8e9-b4ba8da1254b.jpg)
+
 
