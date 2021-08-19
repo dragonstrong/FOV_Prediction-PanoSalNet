@@ -4,7 +4,7 @@
 ## 2、download dataset and model
 [https://pan.baidu.com/s/1l-xo9TRS_-_3T4cIVr5Viw](https://pan.baidu.com/s/1l-xo9TRS_-_3T4cIVr5Viw)
 
-提取码：1234
+extract code：1234
 
 then copy these files to the same folder as lstm.py , which is show below:
 
