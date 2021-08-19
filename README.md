@@ -16,7 +16,7 @@ run panosalnet.py to generate the saliency map (**output is a pixel matrix** )
 run lstm.py to predict the FOV (**output is a probability  matrix of each tile**)
 
 
-## reference pictiure
+## reference picture
 ![image](https://user-images.githubusercontent.com/32926995/130085329-78653cfb-9ba0-47a1-ad08-0f6db071958f.png)
 
 ![image](https://user-images.githubusercontent.com/32926995/130085527-03f4b3f2-bdf7-4fcc-aa99-884e0cdbe8a0.png)
