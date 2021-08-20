@@ -2,9 +2,9 @@
 [https://github.com/phananh1010/PanoSalNet](https://github.com/phananh1010/PanoSalNet)
 
 ## 2、download dataset and model
-[https://pan.baidu.com/s/1l-xo9TRS_-_3T4cIVr5Viw](https://pan.baidu.com/s/1l-xo9TRS_-_3T4cIVr5Viw) (**required**)
+[https://pan.baidu.com/s/1l-xo9TRS_-_3T4cIVr5Viw](https://pan.baidu.com/s/1l-xo9TRS_-_3T4cIVr5Viw) (**requirement**)
 
-[https://pan.baidu.com/s/1iV6kTZSvpZhCehu0s3pMMA](https://pan.baidu.com/s/1iV6kTZSvpZhCehu0s3pMMA)（**optional**）
+[https://pan.baidu.com/s/1iV6kTZSvpZhCehu0s3pMMA](https://pan.baidu.com/s/1iV6kTZSvpZhCehu0s3pMMA)（**option**）
 
 extract code：1234
 
