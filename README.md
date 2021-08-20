@@ -8,7 +8,7 @@
 
 extract code：1234
 
-then copy these files to the same folder as lstm.py , which is show below:
+then copy these files to the same folder with lstm.py , which is show below:
 
 ![image](https://user-images.githubusercontent.com/32926995/130084195-f0d17f89-848a-44b6-a0f3-48b09287f954.png)
 
